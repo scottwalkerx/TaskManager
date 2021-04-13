@@ -1,0 +1,15 @@
+This is a Task Manager application which allows you to CREATE, UPDATE, and DELETE tasks you've created.
+
+In order to Run:
+Download the code and run it using maven command line.
+Open MySQL workbench and create a DB named: tasksManager
+Open your browser and go to localhost:8090.
+Create an account and login using that account.
+After logging in, you can create your tasks.
+
+Technologies used:
+Spring Boot
+Spring Security
+MySQL
+Thymeleaf
+Bootsrap
